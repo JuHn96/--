@@ -18,13 +18,13 @@
 
 ## 예제 코드
 
-- [VariableInitFixed.java](../code-examples/02-1/Fixed3Ex.java) - 3번 문제 오류 수정
-- [VariableScopeFixed.java](../code-examples/02-1/Fixed4Ex.java) - 4번 문제 오류 수정
+- [Fixed3Ex.java](../code-examples/02-1/Fixed3Ex.java) - 3번 문제 오류 수정
+- [Fixed4Ex.java](../code-examples/02-1/Fixed4Ex.java) - 4번 문제 오류 수정
 
 ## 실행 결과
 
-- ![VariableInitFixed](../images/02-1/Fixed3Ex.png) - 정상출력
-- ![VariableScopeFixed](../images/02-1/Fixed4Ex.png) - 정상출력
+- ![Fixed3Ex](../images/02-1/Fixed3Ex.png) - 정상출력
+- ![Fixed4Ex](../images/02-1/Fixed4Ex.png) - 정상출력
 
 ---
 
