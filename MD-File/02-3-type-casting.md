@@ -21,17 +21,17 @@
 
 ## 예제 코드
 
-- [../code-examples/02-3/Fixed1Ex.java](../code-examples/02-3/Fixed1Ex.java) - 1번 문제  
-- [../code-examples/02-3/Fixed2Ex.java](../code-examples/02-3/Fixed2Ex.java) - 2번 문제  
-- [../code-examples/02-3/Fixed3Ex.java](../code-examples/02-3/Fixed3Ex.java) - 3번 문제  
-- [../code-examples/02-3/Fixed4Ex.java](../code-examples/02-3/Fixed4Ex.java) - 4번 문제  
-- [../code-examples/02-3/Fixed5Ex.java](../code-examples/02-3/Fixed5Ex.java) - 5번 문제  
-- [../code-examples/02-3/Fixed6Ex.java](../code-examples/02-3/Fixed6Ex.java) - 6번 문제  
-- [../code-examples/02-3/Fixed7Ex.java](../code-examples/02-3/Fixed7Ex.java) - 7번 문제  
-- [../code-examples/02-3/Fixed8Ex.java](../code-examples/02-3/Fixed8Ex.java) - 8번 문제  
-- [../code-examples/02-3/Fixed9Ex.java](../code-examples/02-3/Fixed9Ex.java) - 9번 문제  
-- [../code-examples/02-3/Fixed10Ex.java](../code-examples/02-3/Fixed10Ex.java) - 10번 문제  
-- [../code-examples/02-3/Fixed11Ex.java](../code-examples/02-3/Fixed11Ex.java) - 11번 문제  
+- [Fixed1Ex.java](../code-examples/02-3/Fixed1Ex.java) - 1번 문제  
+- [Fixed2Ex.java](../code-examples/02-3/Fixed2Ex.java) - 2번 문제  
+- [Fixed3Ex.java](../code-examples/02-3/Fixed3Ex.java) - 3번 문제  
+- [Fixed4Ex.java](../code-examples/02-3/Fixed4Ex.java) - 4번 문제  
+- [Fixed5Ex.java](../code-examples/02-3/Fixed5Ex.java) - 5번 문제  
+- [Fixed6Ex.java](../code-examples/02-3/Fixed6Ex.java) - 6번 문제  
+- [Fixed7Ex.java](../code-examples/02-3/Fixed7Ex.java) - 7번 문제  
+- [Fixed8Ex.java](../code-examples/02-3/Fixed8Ex.java) - 8번 문제  
+- [Fixed9Ex.java](../code-examples/02-3/Fixed9Ex.java) - 9번 문제  
+- [Fixed10Ex.java](../code-examples/02-3/Fixed10Ex.java) - 10번 문제  
+- [Fixed11Ex.java](../code-examples/02-3/Fixed11Ex.java) - 11번 문제  
 
 ## 실행 결과
 
