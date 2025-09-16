@@ -31,8 +31,8 @@
 ## 실행 결과
 
 - ![Hello - ](../images/01-3/hello.png)
-- ![Comment - ](../images/01-3/comment.png)  
-- ![Statement - ](../images/01-3/statement.png)  
+- ![Comment - ](../images/01-3/comment.png)
+- ![Statement - ](../images/01-3/statement.png)
 
 ---
 
@@ -51,7 +51,7 @@
 ④ 실행 결과를 확인한다.  
 > 설명: 출력/동작을 눈으로 검증하는 단계
 
-**- 정답 순서: 2 → 1 → 3 → 4** 
+**정답 순서: 2 → 1 → 3 → 4** 
 
 ---
 
