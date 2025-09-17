@@ -18,8 +18,8 @@
 
 ## 예제 코드
 
-- [Fixed3Ex.java](../code-examples/02-1/Fixed3Ex.java) - 3번 문제 오류 수정
-- [Fixed4Ex.java](../code-examples/02-1/Fixed4Ex.java) - 4번 문제 오류 수정
+- [Fixed3Ex.java](../code-examples/chap02_1/Fixed3Ex02_1.java) - 3번 문제 오류 수정
+- [Fixed4Ex.java](../code-examples/chap02_1/Fixed4Ex02_1.java) - 4번 문제 오류 수정
 
 ## 실행 결과
 

@@ -22,9 +22,9 @@
 
 ## 예제 코드
 
-- [Fixed3Ex.java](../code-examples/02-2/Fixed3Ex.java) - 3번 문제 (이스케이프 문자 출력)
-- [Fixed4Ex.java](../code-examples/02-2/Fixed4Ex.java) - 4번 문제 (double 리터럴 범위 에러)
-- [Fixed5Ex.java](../code-examples/02-2/Fixed5Ex.java) - 5번 문제 (boolean 조건문 실행)
+- [Fixed3Ex.java](../code-examples/chap02_2/Fixed3Ex02_2.java) - 3번 문제 (이스케이프 문자 출력)
+- [Fixed4Ex.java](../code-examples/chap02_2/Fixed4Ex02_2.java) - 4번 문제 (double 리터럴 범위 에러)
+- [Fixed5Ex.java](../code-examples/chap02_2/Fixed5Ex02_2.java) - 5번 문제 (boolean 조건문 실행)
 
 ## 실행 결과
 

@@ -23,8 +23,8 @@
 ---
 
 ## 예제 코드
-- [Hello.java](../code-examples/01-1/Hello.java) - 텍스트 표시 확인
-- [CheckPath.java](../code-examples/01-1/CheckPath.java) - 환경변수(Path)가 잘 등록되었는지 확인
+- [Hello.java](../code-examples/chap01_1/Hello.java) - 텍스트 표시 확인
+- [CheckPath.java](../code-examples/chap01_1/CheckPath.java) - 환경변수(Path)가 잘 등록되었는지 확인
 
 ## 실행 결과
 - Hello.java - ![Hello 실행 결과](../images/01-1/hello.png)  

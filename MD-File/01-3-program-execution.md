@@ -24,9 +24,9 @@
 
 ## 예제 코드
 
-- [Hello.java](../code-examples/01-3/Hello.java)
-- [CommentExample.java](../code-examples/01-3/CommentExample.java) - 문제 3번 예제 
-- [StatementExample.java](../code-examples/01-3/StatementExample.java) - 변수선언, 값 계산 예제(64p)
+- [Hello.java](../code-examples/chap01_3/Hello.java)
+- [CommentExample.java](../code-examples/chap01_3/CommentExample.java) - 문제 3번 예제 
+- [StatementExample.java](../code-examples/chap01_3/StatementExample.java) - 변수선언, 값 계산 예제(64p)
 
 ## 실행 결과
 

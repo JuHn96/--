@@ -1,0 +1,218 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    // --- chap01_1 ---
+    {
+      "type": "java",
+      "name": "Run Hello (chap01_1)",
+      "request": "launch",
+      "mainClass": "chap01_1.Hello",
+      "classPaths": ["out"],
+      "projectName": "정리"
+    },
+    {
+      "type": "java",
+      "name": "Run CheckPath (chap01_1)",
+      "request": "launch",
+      "mainClass": "chap01_1.CheckPath",
+      "classPaths": ["out"],
+      "projectName": "정리"
+    },
+
+    // --- chap01_3 ---
+    {
+      "type": "java",
+      "name": "Run Hello (chap01_3)",
+      "request": "launch",
+      "mainClass": "chap01_3.Hello",
+      "classPaths": ["out"],
+      "projectName": "정리"
+    },
+    {
+      "type": "java",
+      "name": "Run CommentExample (chap01_3)",
+      "request": "launch",
+      "mainClass": "chap01_3.CommentExample",
+      "classPaths": ["out"],
+      "projectName": "정리"
+    },
+    {
+      "type": "java",
+      "name": "Run StatementExample (chap01_3)",
+      "request": "launch",
+      "mainClass": "chap01_3.StatementExample",
+      "classPaths": ["out"],
+      "projectName": "정리"
+    },
+
+    // --- chap02_1 ---
+    {
+      "type": "java",
+      "name": "Run Fixed3Ex02_1",
+      "request": "launch",
+      "mainClass": "chap02_1.Fixed3Ex02_1",
+      "classPaths": ["out"],
+      "projectName": "정리"
+    },
+    {
+      "type": "java",
+      "name": "Run Fixed4Ex02_1",
+      "request": "launch",
+      "mainClass": "chap02_1.Fixed4Ex02_1",
+      "classPaths": ["out"],
+      "projectName": "정리"
+    },
+
+    // --- chap02_2 ---
+    {
+      "type": "java",
+      "name": "Run Fixed3Ex02_2",
+      "request": "launch",
+      "mainClass": "chap02_2.Fixed3Ex02_2",
+      "classPaths": ["out"],
+      "projectName": "정리"
+    },
+    {
+      "type": "java",
+      "name": "Run Fixed4Ex02_2",
+      "request": "launch",
+      "mainClass": "chap02_2.Fixed4Ex02_2",
+      "classPaths": ["out"],
+      "projectName": "정리"
+    },
+    {
+      "type": "java",
+      "name": "Run Fixed5Ex02_2",
+      "request": "launch",
+      "mainClass": "chap02_2.Fixed5Ex02_2",
+      "classPaths": ["out"],
+      "projectName": "정리"
+    },
+
+    // --- chap02_3 ---
+    {
+      "type": "java",
+      "name": "Run Fixed1Ex02_3",
+      "request": "launch",
+      "mainClass": "chap02_3.Fixed1Ex02_3",
+      "classPaths": ["out"],
+      "projectName": "정리"
+    },
+    {
+      "type": "java",
+      "name": "Run Fixed2Ex02_3",
+      "request": "launch",
+      "mainClass": "chap02_3.Fixed2Ex02_3",
+      "classPaths": ["out"],
+      "projectName": "정리"
+    },
+    {
+      "type": "java",
+      "name": "Run Fixed3Ex02_3",
+      "request": "launch",
+      "mainClass": "chap02_3.Fixed3Ex02_3",
+      "classPaths": ["out"],
+      "projectName": "정리"
+    },
+    {
+      "type": "java",
+      "name": "Run Fixed4Ex02_3",
+      "request": "launch",
+      "mainClass": "chap02_3.Fixed4Ex02_3",
+      "classPaths": ["out"],
+      "projectName": "정리"
+    },
+    {
+      "type": "java",
+      "name": "Run Fixed5Ex02_3",
+      "request": "launch",
+      "mainClass": "chap02_3.Fixed5Ex02_3",
+      "classPaths": ["out"],
+      "projectName": "정리"
+    },
+    {
+      "type": "java",
+      "name": "Run Fixed6Ex02_3",
+      "request": "launch",
+      "mainClass": "chap02_3.Fixed6Ex02_3",
+      "classPaths": ["out"],
+      "projectName": "정리"
+    },
+    {
+      "type": "java",
+      "name": "Run Fixed7Ex02_3",
+      "request": "launch",
+      "mainClass": "chap02_3.Fixed7Ex02_3",
+      "classPaths": ["out"],
+      "projectName": "정리"
+    },
+    {
+      "type": "java",
+      "name": "Run Fixed8Ex02_3",
+      "request": "launch",
+      "mainClass": "chap02_3.Fixed8Ex02_3",
+      "classPaths": ["out"],
+      "projectName": "정리"
+    },
+    {
+      "type": "java",
+      "name": "Run Fixed9Ex02_3",
+      "request": "launch",
+      "mainClass": "chap02_3.Fixed9Ex02_3",
+      "classPaths": ["out"],
+      "projectName": "정리"
+    },
+    {
+      "type": "java",
+      "name": "Run Fixed10Ex02_3",
+      "request": "launch",
+      "mainClass": "chap02_3.Fixed10Ex02_3",
+      "classPaths": ["out"],
+      "projectName": "정리"
+    },
+    {
+      "type": "java",
+      "name": "Run Fixed11Ex02_3",
+      "request": "launch",
+      "mainClass": "chap02_3.Fixed11Ex02_3",
+      "classPaths": ["out"],
+      "projectName": "정리"
+    },
+
+    // --- chap02_4 ---
+    {
+      "type": "java",
+      "name": "Run Fixed1Ex02_4",
+      "request": "launch",
+      "mainClass": "chap02_4.Fixed1Ex02_4",
+      "classPaths": ["out"],
+      "projectName": "정리"
+    },
+    {
+      "type": "java",
+      "name": "Run Fixed2Ex02_4",
+      "request": "launch",
+      "mainClass": "chap02_4.Fixed2Ex02_4",
+      "classPaths": ["out"],
+      "projectName": "정리"
+    },
+    {
+      "type": "java",
+      "name": "Run Fixed3Ex02_4",
+      "request": "launch",
+      "mainClass": "chap02_4.Fixed3Ex02_4",
+      "classPaths": ["out"],
+      "projectName": "정리"
+    },
+
+    // --- chap03_1 ---
+    {
+      "type": "java",
+      "name": "Run Ex03_1",
+      "request": "launch",
+      "mainClass": "chap03_1.Ex03_1",
+      "classPaths": ["out"],
+      "projectName": "정리"
+    }
+  ]
+}
