@@ -8,7 +8,8 @@
       "request": "launch",
       "mainClass": "chap01_1.Hello",
       "classPaths": ["out"],
-      "projectName": "정리"
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
     },
     {
       "type": "java",
@@ -16,7 +17,8 @@
       "request": "launch",
       "mainClass": "chap01_1.CheckPath",
       "classPaths": ["out"],
-      "projectName": "정리"
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
     },
 
     // --- chap01_3 ---
@@ -26,7 +28,8 @@
       "request": "launch",
       "mainClass": "chap01_3.Hello",
       "classPaths": ["out"],
-      "projectName": "정리"
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
     },
     {
       "type": "java",
@@ -34,7 +37,8 @@
       "request": "launch",
       "mainClass": "chap01_3.CommentExample",
       "classPaths": ["out"],
-      "projectName": "정리"
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
     },
     {
       "type": "java",
@@ -42,7 +46,8 @@
       "request": "launch",
       "mainClass": "chap01_3.StatementExample",
       "classPaths": ["out"],
-      "projectName": "정리"
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
     },
 
     // --- chap02_1 ---
@@ -52,7 +57,8 @@
       "request": "launch",
       "mainClass": "chap02_1.Fixed3Ex02_1",
       "classPaths": ["out"],
-      "projectName": "정리"
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
     },
     {
       "type": "java",
@@ -60,7 +66,8 @@
       "request": "launch",
       "mainClass": "chap02_1.Fixed4Ex02_1",
       "classPaths": ["out"],
-      "projectName": "정리"
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
     },
 
     // --- chap02_2 ---
@@ -70,7 +77,8 @@
       "request": "launch",
       "mainClass": "chap02_2.Fixed3Ex02_2",
       "classPaths": ["out"],
-      "projectName": "정리"
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
     },
     {
       "type": "java",
@@ -78,7 +86,8 @@
       "request": "launch",
       "mainClass": "chap02_2.Fixed4Ex02_2",
       "classPaths": ["out"],
-      "projectName": "정리"
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
     },
     {
       "type": "java",
@@ -86,7 +95,8 @@
       "request": "launch",
       "mainClass": "chap02_2.Fixed5Ex02_2",
       "classPaths": ["out"],
-      "projectName": "정리"
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
     },
 
     // --- chap02_3 ---
@@ -96,7 +106,8 @@
       "request": "launch",
       "mainClass": "chap02_3.Fixed1Ex02_3",
       "classPaths": ["out"],
-      "projectName": "정리"
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
     },
     {
       "type": "java",
@@ -104,7 +115,8 @@
       "request": "launch",
       "mainClass": "chap02_3.Fixed2Ex02_3",
       "classPaths": ["out"],
-      "projectName": "정리"
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
     },
     {
       "type": "java",
@@ -112,7 +124,8 @@
       "request": "launch",
       "mainClass": "chap02_3.Fixed3Ex02_3",
       "classPaths": ["out"],
-      "projectName": "정리"
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
     },
     {
       "type": "java",
@@ -120,7 +133,8 @@
       "request": "launch",
       "mainClass": "chap02_3.Fixed4Ex02_3",
       "classPaths": ["out"],
-      "projectName": "정리"
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
     },
     {
       "type": "java",
@@ -128,7 +142,8 @@
       "request": "launch",
       "mainClass": "chap02_3.Fixed5Ex02_3",
       "classPaths": ["out"],
-      "projectName": "정리"
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
     },
     {
       "type": "java",
@@ -136,7 +151,8 @@
       "request": "launch",
       "mainClass": "chap02_3.Fixed6Ex02_3",
       "classPaths": ["out"],
-      "projectName": "정리"
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
     },
     {
       "type": "java",
@@ -144,7 +160,8 @@
       "request": "launch",
       "mainClass": "chap02_3.Fixed7Ex02_3",
       "classPaths": ["out"],
-      "projectName": "정리"
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
     },
     {
       "type": "java",
@@ -152,7 +169,8 @@
       "request": "launch",
       "mainClass": "chap02_3.Fixed8Ex02_3",
       "classPaths": ["out"],
-      "projectName": "정리"
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
     },
     {
       "type": "java",
@@ -160,7 +178,8 @@
       "request": "launch",
       "mainClass": "chap02_3.Fixed9Ex02_3",
       "classPaths": ["out"],
-      "projectName": "정리"
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
     },
     {
       "type": "java",
@@ -168,7 +187,8 @@
       "request": "launch",
       "mainClass": "chap02_3.Fixed10Ex02_3",
       "classPaths": ["out"],
-      "projectName": "정리"
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
     },
     {
       "type": "java",
@@ -176,7 +196,8 @@
       "request": "launch",
       "mainClass": "chap02_3.Fixed11Ex02_3",
       "classPaths": ["out"],
-      "projectName": "정리"
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
     },
 
     // --- chap02_4 ---
@@ -186,7 +207,8 @@
       "request": "launch",
       "mainClass": "chap02_4.Fixed1Ex02_4",
       "classPaths": ["out"],
-      "projectName": "정리"
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
     },
     {
       "type": "java",
@@ -194,7 +216,8 @@
       "request": "launch",
       "mainClass": "chap02_4.Fixed2Ex02_4",
       "classPaths": ["out"],
-      "projectName": "정리"
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
     },
     {
       "type": "java",
@@ -202,7 +225,8 @@
       "request": "launch",
       "mainClass": "chap02_4.Fixed3Ex02_4",
       "classPaths": ["out"],
-      "projectName": "정리"
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
     },
 
     // --- chap03_1 ---
@@ -212,7 +236,164 @@
       "request": "launch",
       "mainClass": "chap03_1.Ex03_1",
       "classPaths": ["out"],
-      "projectName": "정리"
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
+    },
+
+    // --- chap03_2 ---
+    {
+      "type": "java",
+      "name": "Run Fixed1Ex03_2",
+      "request": "launch",
+      "mainClass": "chap03_2.Fixed1Ex03_2",
+      "classPaths": ["out"],
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
+    },
+    {
+      "type": "java",
+      "name": "Run Fixed2Ex03_2",
+      "request": "launch",
+      "mainClass": "chap03_2.Fixed2Ex03_2",
+      "classPaths": ["out"],
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
+    },
+    {
+      "type": "java",
+      "name": "Run Fixed3Ex03_2",
+      "request": "launch",
+      "mainClass": "chap03_2.Fixed3Ex03_2",
+      "classPaths": ["out"],
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
+    },
+    {
+      "type": "java",
+      "name": "Run Fixed4Ex03_2",
+      "request": "launch",
+      "mainClass": "chap03_2.Fixed4Ex03_2",
+      "classPaths": ["out"],
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
+    },
+    {
+      "type": "java",
+      "name": "Run Fixed5Ex03_2",
+      "request": "launch",
+      "mainClass": "chap03_2.Fixed5Ex03_2",
+      "classPaths": ["out"],
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
+    },
+    {
+      "type": "java",
+      "name": "Run Fixed6Ex03_2",
+      "request": "launch",
+      "mainClass": "chap03_2.Fixed6Ex03_2",
+      "classPaths": ["out"],
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
+    },
+    {
+      "type": "java",
+      "name": "Run Fixed7Ex03_2",
+      "request": "launch",
+      "mainClass": "chap03_2.Fixed7Ex03_2",
+      "classPaths": ["out"],
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
+    },
+    {
+      "type": "java",
+      "name": "Run Fixed8Ex03_2",
+      "request": "launch",
+      "mainClass": "chap03_2.Fixed8Ex03_2",
+      "classPaths": ["out"],
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
+    },
+    {
+      "type": "java",
+      "name": "Run Fixed9Ex03_2",
+      "request": "launch",
+      "mainClass": "chap03_2.Fixed9Ex03_2",
+      "classPaths": ["out"],
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
+    },
+    {
+      "type": "java",
+      "name": "Run Fixed10Ex03_2",
+      "request": "launch",
+      "mainClass": "chap03_2.Fixed10Ex03_2",
+      "classPaths": ["out"],
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
+    },
+    {
+      "type": "java",
+      "name": "Run Fixed11Ex03_2",
+      "request": "launch",
+      "mainClass": "chap03_2.Fixed11Ex03_2",
+      "classPaths": ["out"],
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
+    },
+    {
+      "type": "java",
+      "name": "Run Fixed12Ex03_2",
+      "request": "launch",
+      "mainClass": "chap03_2.Fixed12Ex03_2",
+      "classPaths": ["out"],
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
+    },
+    {
+      "type": "java",
+      "name": "Run Fixed13Ex03_2",
+      "request": "launch",
+      "mainClass": "chap03_2.Fixed13Ex03_2",
+      "classPaths": ["out"],
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
+    },
+    {
+      "type": "java",
+      "name": "Run Fixed14Ex03_2",
+      "request": "launch",
+      "mainClass": "chap03_2.Fixed14Ex03_2",
+      "classPaths": ["out"],
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
+    },
+    // --- chap04_1 ---
+    {
+      "type": "java",
+      "name": "Run Fixed1Ex04_1",
+      "request": "launch",
+      "mainClass": "chap04_1.Fixed1Ex04_1",
+      "classPaths": ["out"],
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
+    },
+    {
+      "type": "java",
+      "name": "Run Fixed3Ex04_1",
+      "request": "launch",
+      "mainClass": "chap04_1.Fixed3Ex04_1",
+      "classPaths": ["out"],
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
+    },
+    {
+      "type": "java",
+      "name": "Run Fixed4Ex04_1",
+      "request": "launch",
+      "mainClass": "chap04_1.Fixed4Ex04_1",
+      "classPaths": ["out"],
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
     }
   ]
 }

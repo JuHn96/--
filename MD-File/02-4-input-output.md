@@ -31,7 +31,7 @@
 
 - ![Fixed1Ex](../images/02-4/Fixed1Ex.png)  
 - ![Fixed2Ex](../images/02-4/Fixed2Ex.png)  
-- ![Fixed3Ex](../images/02-4/Fixed3Ex-1.png)     ![Fixed3Ex](../images/02-4/Fixed3Ex-2.png)
+- ![Fixed3Ex](../images/02-4/Fixed3Ex-1.png)![Fixed3Ex](../images/02-4/Fixed3Ex-2.png)
 > (입력한 대로 출력  -  입력 안할시 출력X)
 
 ---
