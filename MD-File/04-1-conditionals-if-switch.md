@@ -1,3 +1,5 @@
+<p align="right"><a href="../readme.md">목차로 이동</a></p>
+
 # 04-1 조건문: if문, switch문
 
 ## 핵심 포인트
@@ -82,3 +84,4 @@ System.out.println("감사합니다.");
 감사합니다.  
 
 > 해설: grade='C' 에서 **break가 없으므로** 'C' 이후 **fall-through**로 'D'까지 실행된 뒤 break로 종료됩니다.
+<p align="right"><a href="#top">위로 이동</a> 

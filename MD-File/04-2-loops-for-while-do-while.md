@@ -1,3 +1,5 @@
+<p align="right"><a href="../readme.md">목차로 이동</a></p>
+
 # 04-2 반복문: for문, while문, do-while문
 
 ## 핵심 포인트
@@ -207,3 +209,4 @@ public class Exam07 {
 }
 ```
 > 해설: 문자열로 입력받아 정수로 변환(`Integer.parseInt`)하고 switch로 메뉴 분기.
+<p align="right"><a href="#top">위로 이동</a> 

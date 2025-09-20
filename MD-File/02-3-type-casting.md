@@ -1,3 +1,5 @@
+<p align="right"><a href="../readme.md">목차로 이동</a></p>
+
 # 02-3 타입 변환
 
 ## 핵심 포인트 정리
@@ -214,3 +216,6 @@ double value4 = (4);
 20.5  
 3.14159 
 
+---
+
+<p align="right"><a href="#top">위로 이동</a> 

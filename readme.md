@@ -1,3 +1,67 @@
+# PJH Java Study — Notes Index
+
+> 자바 학습 노트를 챕터별로 정리한 파일입니다.  
+> 각 문서는 **핵심 포인트 → 예제 코드 링크 → 실행 결과 → 확인 문제(정답·해설 참고)** 구조로 정리되어 있습니다.
+
+---
+
+## 챕터 01 — 자바 시작하기
+- 01-1. 프로그래밍과 자바  
+  ↳ [MD-File/01-1-programming-java.md](MD-File/01-1-programming-java.md)
+- 01-3. 프로그램 실행 과정  
+  ↳ [MD-File/01-3-program-execution.md](MD-File/01-3-program-execution.md)
+
+---
+
+## 챕터 02 — 기본 문법
+- 02-1. 코드 예제 모음(기본)  
+  ↳ [MD-File/02-1-code-examples.md](MD-File/02-1-code-examples.md)
+- 02-2. 기본 타입(Basic Types)  
+  ↳ [MD-File/02-2-basic-types.md](MD-File/02-2-basic-types.md)
+- 02-3. 타입 변환(Type Casting)  
+  ↳ [MD-File/02-3-type-casting.md](MD-File/02-3-type-casting.md)
+- 02-4. 입력과 출력(Input/Output)  
+  ↳ [MD-File/02-4-input-output.md](MD-File/02-4-input-output.md)
+
+---
+
+## 챕터 03 — 연산자
+- 03-1. 연산자와 표현식(Operators & Expressions)  
+  ↳ [MD-File/03-1-operators-expressions.md](MD-File/03-1-operators-expressions.md)
+- 03-2. 연산자의 종류(Types of Operators)  
+  ↳ [MD-File/03-2-types-of-operators.md](MD-File/03-2-types-of-operators.md)
+
+---
+
+## 챕터 04 — 조건문과 반복문
+- 04-1. 조건문: if / switch  
+  ↳ [MD-File/04-1-conditionals-if-switch.md](MD-File/04-1-conditionals-if-switch.md)
+- 04-2. 반복문: for / while / do-while  
+  ↳ [MD-File/04-2-loops-for-while-do-while.md](MD-File/04-2-loops-for-while-do-while.md)
+
+---
+
+## 프로젝트 사용 메모
+- **코드 위치**: `code-examples/chapXX_X/*.java`  
+- **클래스 파일**: `out/chapXX_X/*.class`  
+- **이미지**: `images/XX-Y/FixedNEx.png` (문서에서 `![]()`로 참조)
+- **실행 설정**: `launch.json` 각 항목에 `vmArgs: "-Dfile.encoding=UTF-8"` 포함
+- **컴파일(예시)**:
+  - 특정 단원: `javac -encoding UTF-8 -d out code-examples\chap04_2\*.java`
+  - 전체(필요 시): 각 chap 폴더별로 동일 패턴으로 실행
+
+---
+
+## 문서 규칙(요약)
+- 모든 MD는 **한 코드블록**으로 전달 및 관리 (언어 지정 없음)
+- 이미지 경로는 문서 기준 **상대경로** 사용: `../images/XX-Y/FixedNEx.png`
+- 확인 문제: 보기 괄호에 O/X 직접 표기 + `**정답 :** …` 형식, **해설 필수**
+
+행복한 자바 공부 되세요! 🚀
+
+
+# 제작하며 쓰는것
+
 **tree /f** = 명령어 터미널에서 입력하면 files.txt로 현재 폴더구조 텍스트화 시켜줌
 
 **launch.jsom** = 여러개 폴더에 나뉜 .java파일들 바로바로 실행시키기 위해 생성

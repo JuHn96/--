@@ -1,3 +1,5 @@
+<p align="right"><a href="../readme.md">목차로 이동</a></p>
+
 # 02-2 기본 타입
 
 ## 핵심 포인트 정리
@@ -115,3 +117,4 @@ if (stop) {
 
 설명: 조건식 stop이 false → else 블록 실행.
 ```
+<p align="right"><a href="#top">위로 이동</a> 

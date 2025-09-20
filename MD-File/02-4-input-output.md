@@ -1,3 +1,5 @@
+<p align="right"><a href="../readme.md">목차로 이동</a></p>
+
 # 02-4 변수와 시스템 입출력
 
 ## 핵심 포인트 정리
@@ -121,3 +123,4 @@ System.out.println("3. 전화번호: " + tel);
 ```
 
 
+<p align="right"><a href="#top">위로 이동</a> 
