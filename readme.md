@@ -69,7 +69,7 @@ https://www.hanbit.co.kr/support/supplement_survey.html?pcode=B6700167549 예제
 **javac -encoding UTF-8 -d out code-examples\chap폴더명\자바파일명.java - class파일 생성**
 - 예시
 ```java
-javac -encoding UTF-8 -d out code-examples\chap02_1\Ex75p.java
+javac -encoding UTF-8 -d out code-examples\chap02_2\Ex87p.java
 ```
 **tree /f** = 명령어 터미널에서 입력하면 files.txt로 현재 폴더구조 텍스트화 시켜줌
 

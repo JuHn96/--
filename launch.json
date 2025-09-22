@@ -156,6 +156,24 @@
     },
     {
       "type": "java",
+      "name": "Run Ex87p",
+      "request": "launch",
+      "mainClass": "chap02_2.Ex87p",
+      "classPaths": ["out"],
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
+    },
+    {
+      "type": "java",
+      "name": "Run Ex88p",
+      "request": "launch",
+      "mainClass": "chap02_2.Ex88p",
+      "classPaths": ["out"],
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
+    },
+    {
+      "type": "java",
       "name": "Run Fixed3Ex02_2",
       "request": "launch",
       "mainClass": "chap02_2.Fixed3Ex02_2",
