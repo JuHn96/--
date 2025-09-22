@@ -1,6 +1,70 @@
 <p align="right"><a href="../readme.md">목차로 이동</a></p>
 
 # 02-2 기본 타입
+---
+### 정수 리터럴
+소스 코드에서 프로그래머에 의해 직접 입력된 값을 `리터럴(literal)`이라고 부름. 입력된 리터럴 중에 자바가 정수로 인식하는 경우는 아래와 같음
+
+**2진수:** 0b 또는 0B로 시작하고 0과 1로 구성
+```
+0b1011  >> 1x2³ + 0x2² + 1x2¹ + 1x2⁰        >> 11
+0b10100 >> 1x2⁴ + 0x2³ + 1x2² + 0x2¹ + 0x2⁰ >> 20
+```
+**8진수:** 0으로 시작하고 0~7 숫자로 구성
+```
+013  >> 1x8¹ + 3x8⁰        >> 11
+0206 >> 2x8² + 0x8¹ + 6x8⁰ >> 134
+```
+**10진수:** 소수점이 없는 0~9 숫자로 구성
+```
+12
+365
+```
+**16진수:** 0x 또는 0X로 시작하고 0~9 숫자와 A,B,C,D,E,F 또는 a,b,c,d,e,f로 구성
+```
+0xB3   >> 11x16¹ + 3x16⁰                  >> 179
+0x2A0F >> 2x16³ + 10x16² + 0x16¹ + 15x16⁰ >> 10767
+```
+
+>예제 코드 `Ex83p.java` 참고
+
+### Long 타입 변수
+은행이나 과학과 관련된 프로그램에서 **수치가 큰 데이터**를 다룰때 주로 사용됨.
+컴파일러는 정수 리터럴을 **기본적으로 int로 간주**하는데 int타입의 **허용 범위**`-2,147,483,648~2,147,483,647`을 **초과**할 경우 **long 타입**임을 컴파일러에 알려줘야함.
+>예제 코드 `Ex84p.java` 참고
+### char 타입
+작은따옴표(')로 감싼 것을 **문자 리터럴**이라고 함
+문자 리터럴은 **유니코드**로 변환되어 저장
+유니코드는 세계 각국의 문자를 2byte로 표현할 수 있는 숫자`0~65535`로 매핑한 국제 표준 규약
+자바에서는 유니코드를 저장할 수 있도록 **2byte** 크기인 **char 타입**이 존재
+
+**예시:** 'A', 'B', '가', '각' 문자를 char 변수에 저장할 경우의 유니코드 
+```java
+char var1 = 'A';  //유니코드: 65
+char var2 = 'B';  //유니코드: 66
+char var3 = '가'; //유니코드: 44032
+char var4 = '각'; //유니코드: 44033
+```
+유니코드는 정수라서 char도 정수 타입에 속함. 10진수 or 16진수 형태로 저장가능
+**예시**
+```java
+char c = 65;     //10진수
+char c = 0x0041; //16진수
+```
+
+### 문자 리터럴을 int 타입에 저장할 경우
+작은따옴표(')로 감싼 문자 리터럴은 유니코드로 변환되기에 int 타입 변수에도 저장 가능. char 타입 변수에 저장하면 자동으로 문자로 매핑되어 출력되지만, int 타입 변수에 저장하면 유니코드 자체가 출력됨
+```java
+char var1 = 'A';
+int var2 = 'A';
+System.out.println(var1); //A를 출력
+System.out.println(var2); //65를 출력
+```
+>예제 코드 `Ex86p.java` 참고
+
+
+
+---
 
 ## 핵심 포인트 정리
 
@@ -23,21 +87,25 @@
 ---
 
 ## 예제 코드
-
+- [Ex83p.java](../code-examples/chap02_2/Ex83p.java) - 정수 리터럴 여러 값을 10진수로 출력
+- [Ex84p.java](../code-examples/chap02_2/Ex84p.java) - long 타입 변수
+- [Ex86p.java](../code-examples/chap02_2/Ex86p.java) - char 타입 변수
 - [Fixed3Ex.java](../code-examples/chap02_2/Fixed3Ex02_2.java) - 3번 문제 (이스케이프 문자 출력)
 - [Fixed4Ex.java](../code-examples/chap02_2/Fixed4Ex02_2.java) - 4번 문제 (double 리터럴 범위 에러)
 - [Fixed5Ex.java](../code-examples/chap02_2/Fixed5Ex02_2.java) - 5번 문제 (boolean 조건문 실행)
 
 ## 실행 결과
-
-- ![Fixed3Ex](../images/02-2/Fixed3Ex.png) - 문자열 출력 결과
-- ![Fixed4Ex](../images/02-2/Fixed4Ex.png) - 에러
-- ![Fixed5Ex](../images/02-2/Fixed5Ex.png) - 조건문 실행 결과
+- ![Ex83p](../images/02-2/Ex83p.png) - Ex83p
+- ![Ex84p](../images/02-2/Ex84p.png) - Ex84p
+- ![Ex86p](../images/02-2/Ex86p.png) - Ex86p
+- ![Fixed3Ex](../images/02-2/Fixed3Ex.png) - 3번
+- ![Fixed4Ex](../images/02-2/Fixed4Ex.png) - 4번
+- ![Fixed5Ex](../images/02-2/Fixed5Ex.png) - 5번
 
 ## 확인 문제
 ### 1) 다음 표는 메모리 사용 크기별 자바의 기본 타입입니다. 빈칸을 채우세요.
 
-| 구분     | 1byte  | 2byte  | 4byte  | 8byte  |
+ㅣ 구분     | 1byte  | 2byte  | 4byte  | 8byte  |
 |----------|--------|--------|--------|--------|
 | 정수 타입 | byte   | short  | int    | long   |
 | 실수 타입 |        |        | float  | double |

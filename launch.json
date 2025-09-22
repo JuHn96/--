@@ -73,6 +73,42 @@
     // --- chap02_1 ---
     {
       "type": "java",
+      "name": "Run Ex73p",
+      "request": "launch",
+      "mainClass": "chap02_1.Ex73p",
+      "classPaths": ["out"],
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
+    },
+    {
+      "type": "java",
+      "name": "Run Ex75p",
+      "request": "launch",
+      "mainClass": "chap02_1.Ex75p",
+      "classPaths": ["out"],
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
+    },
+    {
+      "type": "java",
+      "name": "Run Ex76p",
+      "request": "launch",
+      "mainClass": "chap02_1.Ex76p",
+      "classPaths": ["out"],
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
+    },
+    {
+      "type": "java",
+      "name": "Run Ex77p",
+      "request": "launch",
+      "mainClass": "chap02_1.Ex77p",
+      "classPaths": ["out"],
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
+    },
+    {
+      "type": "java",
       "name": "Run Fixed3Ex02_1",
       "request": "launch",
       "mainClass": "chap02_1.Fixed3Ex02_1",
@@ -91,6 +127,33 @@
     },
 
     // --- chap02_2 ---
+    {
+      "type": "java",
+      "name": "Run Ex83p",
+      "request": "launch",
+      "mainClass": "chap02_2.Ex83p",
+      "classPaths": ["out"],
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
+    },
+    {
+      "type": "java",
+      "name": "Run Ex84p",
+      "request": "launch",
+      "mainClass": "chap02_2.Ex84p",
+      "classPaths": ["out"],
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
+    },
+    {
+      "type": "java",
+      "name": "Run Ex86p",
+      "request": "launch",
+      "mainClass": "chap02_2.Ex86p",
+      "classPaths": ["out"],
+      "projectName": "정리",
+      "vmArgs": "-Dfile.encoding=UTF-8"
+    },
     {
       "type": "java",
       "name": "Run Fixed3Ex02_2",

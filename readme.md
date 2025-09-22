@@ -59,9 +59,18 @@ dd
 
 행복한 자바 공부 되세요! 🚀
 
+---
+---
+
+https://www.hanbit.co.kr/support/supplement_survey.html?pcode=B6700167549 예제코드 링크
+
 
 # 제작하며 쓰는것
-
+**javac -encoding UTF-8 -d out code-examples\chap폴더명\자바파일명.java - class파일 생성**
+- 예시
+```java
+javac -encoding UTF-8 -d out code-examples\chap02_1\Ex75p.java
+```
 **tree /f** = 명령어 터미널에서 입력하면 files.txt로 현재 폴더구조 텍스트화 시켜줌
 
 **launch.jsom** = 여러개 폴더에 나뉜 .java파일들 바로바로 실행시키기 위해 생성
