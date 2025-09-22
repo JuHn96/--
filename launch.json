@@ -551,6 +551,53 @@
       "classPaths": ["out"],
       "projectName": "정리",
       "vmArgs": "-Dfile.encoding=UTF-8"
-    }
+    },
+
+    // --- chap05_1 ---
+{
+  "type": "java",
+  "name": "Run Fixed1Ex05_1",
+  "request": "launch",
+  "mainClass": "chap05_1.Fixed1Ex05_1",
+  "classPaths": ["out"],
+  "projectName": "정리",
+  "vmArgs": "-Dfile.encoding=UTF-8"
+},
+{
+  "type": "java",
+  "name": "Run Fixed2Ex05_1",
+  "request": "launch",
+  "mainClass": "chap05_1.Fixed2Ex05_1",
+  "classPaths": ["out"],
+  "projectName": "정리",
+  "vmArgs": "-Dfile.encoding=UTF-8"
+},
+{
+  "type": "java",
+  "name": "Run Fixed3Ex05_1",
+  "request": "launch",
+  "mainClass": "chap05_1.Fixed3Ex05_1",
+  "classPaths": ["out"],
+  "projectName": "정리",
+  "vmArgs": "-Dfile.encoding=UTF-8"
+},
+{
+  "type": "java",
+  "name": "Run Fixed4Ex05_1",
+  "request": "launch",
+  "mainClass": "chap05_1.Fixed4Ex05_1",
+  "classPaths": ["out"],
+  "projectName": "정리",
+  "vmArgs": "-Dfile.encoding=UTF-8"
+},
+{
+  "type": "java",
+  "name": "Run Fixed5Ex05_1",
+  "request": "launch",
+  "mainClass": "chap05_1.Fixed5Ex05_1",
+  "classPaths": ["out"],
+  "projectName": "정리",
+  "vmArgs": "-Dfile.encoding=UTF-8"
+}
   ]
 }
