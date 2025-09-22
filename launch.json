@@ -1,6 +1,26 @@
 {
   "version": "0.2.0",
   "configurations": [
+    // --- chap00 ---
+    {
+      "type": "java",
+      "name": "Run VarExample1 (chap00)",
+      "request": "launch",
+      "mainClass": "chap00.VarExample1",
+      "classPaths": ["out"],
+      "vmArgs": "-Dfile.encoding=UTF-8",
+      "projectName": "정리"
+    },
+    {
+      "type": "java",
+      "name": "Run VarExample2 (chap00)",
+      "request": "launch",
+      "mainClass": "chap00.VarExample2",
+      "classPaths": ["out"],
+      "vmArgs": "-Dfile.encoding=UTF-8",
+      "projectName": "정리"
+    },
+
     // --- chap01_1 ---
     {
       "type": "java",
