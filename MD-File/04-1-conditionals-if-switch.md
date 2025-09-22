@@ -1,17 +1,17 @@
 # 04-1 조건문: if문, switch문
 
 ## 핵심 포인트
-- if문: `if(조건식) { ... }` — 조건식이 true면 블록을 실행합니다.  
-  > **조건이 참일 때만 실행**
+- **if문**: `if(조건식) { ... }` — 조건식이 true면 블록을 실행합니다.  
+  > 요약: 조건이 참일 때만 실행
 
-- if-else문: `if(조건식) { ... } else { ... }` — 조건식이 true면 if 블록, false면 else 블록을 실행합니다.  
-  > **참이면 if, 거짓이면 else**
+- **if-else문**: `if(조건식) { ... } else { ... }` — 조건식이 true면 if 블록, false면 else 블록을 실행합니다.  
+  > 요약: 참이면 if, 거짓이면 else
 
-- if-else if-else문: `if(조건1) { ... } else if(조건2) { ... } else { ... }` — 위에서부터 순차적으로 검사하고, 모두 false면 else를 실행합니다.  
-  > **위에서부터 순서대로 검사 후 마지막엔 else**
+- **if-else if-else문**: `if(조건1) { ... } else if(조건2) { ... } else { ... }` — 위에서부터 순차적으로 검사하고, 모두 false면 else를 실행합니다.  
+  > 요약: 위에서부터 순서대로 검사 후 마지막엔 else
 
-- switch문: `switch(변수) { case 값1: ...; break; case 값2: ...; break; default: ...; }` — 변수의 값과 일치하는 case를 실행하고, 없으면 default를 실행합니다.  
-  > **값에 따라 해당 case 실행, 없으면 default**
+- **switch문**: `switch(변수) { case 값1: ...; break; case 값2: ...; break; default: ...; }` — 변수의 값과 일치하는 case를 실행하고, 없으면 default를 실행합니다.  
+  > 요약: 값에 따라 해당 case 실행, 없으면 default
   
 ## 예제 코드
 - [확인 문제 3.java](../code-examples/chap04_1/Fixed3Ex04_1.java)
