@@ -39,7 +39,7 @@
   ↳ [MD-File/04-2-loops-for-while-do-while.md](MD-File/04-2-loops-for-while-do-while.md)
 
 ## 챕터 05 - 참조 타입
-- 05-1. 참조 타입과 참조 변수
+- 05-1. 참조 타입과 참조 변수  
   ↳ [MD-File/05-1-reference-types-and-variables.md](MD-File/05-1-reference-types-and-variables.md)
 
 
