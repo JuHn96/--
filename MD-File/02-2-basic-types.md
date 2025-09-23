@@ -228,6 +228,9 @@ boolean state = false;
 - [Ex84p.java](../code-examples/chap02_2/Ex84p.java) - long 타입 변수
 - [Ex86p.java](../code-examples/chap02_2/Ex86p.java) - char 타입
 - [Ex87p.java](../code-examples/chap02_2/Ex87p.java) - String 타입
+- [Ex88p.java](../code-examples/chap02_2/Ex88p.java)
+- [Ex90p.java](../code-examples/chap02_2/Ex90p.java)
+- [Ex91p.java](../code-examples/chap02_2/Ex91p.java)
 - [Fixed3Ex.java](../code-examples/chap02_2/Fixed3Ex02_2.java) - 3번 문제 (이스케이프 문자 출력)
 - [Fixed4Ex.java](../code-examples/chap02_2/Fixed4Ex02_2.java) - 4번 문제 (double 리터럴 범위 에러)
 - [Fixed5Ex.java](../code-examples/chap02_2/Fixed5Ex02_2.java) - 5번 문제 (boolean 조건문 실행)
@@ -237,6 +240,9 @@ boolean state = false;
 - ![Ex84p](../images/02-2/Ex84p.png) - Ex84p
 - ![Ex86p](../images/02-2/Ex86p.png) - Ex86p
 - ![Ex87p](../images/02-2/Ex87p.png) - Ex87p
+- ![Ex88p](../images/02-2/Ex88p.png) - Ex88p
+- ![Ex90p](../images/02-2/Ex90p.png) - Ex90p
+- ![Ex91p](../images/02-2/Ex91p.png) - Ex91p
 - ![Fixed3Ex](../images/02-2/Fixed3Ex.png) - 3번
 - ![Fixed4Ex](../images/02-2/Fixed4Ex.png) - 4번
 - ![Fixed5Ex](../images/02-2/Fixed5Ex.png) - 5번

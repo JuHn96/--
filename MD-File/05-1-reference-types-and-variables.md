@@ -22,17 +22,9 @@
   > null.something() → NPE
 
 ## 예제 코드 링크
-- [확인 문제 1.java](../code-examples/chap05_1/Fixed1Ex05_1.java)
-- [확인 문제 2.java](../code-examples/chap05_1/Fixed2Ex05_1.java)
-- [확인 문제 3.java](../code-examples/chap05_1/Fixed3Ex05_1.java)
-- [확인 문제 4.java](../code-examples/chap05_1/Fixed4Ex05_1.java)
 - [확인 문제 5.java](../code-examples/chap05_1/Fixed5Ex05_1.java)
 
 ## 실행 결과
-- ![Fixed1Ex](../images/05-1/Fixed1Ex.png)
-- ![Fixed2Ex](../images/05-1/Fixed2Ex.png)
-- ![Fixed3Ex](../images/05-1/Fixed3Ex.png)
-- ![Fixed4Ex](../images/05-1/Fixed4Ex.png)
 - ![Fixed5Ex](../images/05-1/Fixed5Ex.png)
 
 ## 확인 문제
