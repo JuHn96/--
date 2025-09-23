@@ -1,8 +1,7 @@
 # PJH Java Study — Notes Index
 
 > 자바 학습 노트를 챕터별로 정리한 파일입니다.  
-> 각 문서는 **핵심 포인트 → 예제 코드 링크 → 실행 결과 → 확인 문제(정답·해설 참고)** 구조로 정리되어 있습니다.
-dd
+> 각 문서는 **핵심 포인트 → 예제 코드 링크 → 실행 결과 → 확인 문제(정답·해설 참고)** 구조로 정리되어 있습니다
 ---
 
 ## 챕터 01 — 자바 시작하기
@@ -57,15 +56,13 @@ dd
 - 이미지 경로는 문서 기준 **상대경로** 사용: `../images/XX-Y/FixedNEx.png`
 - 확인 문제: 보기 괄호에 O/X 직접 표기 + `**정답 :** …` 형식, **해설 필수**
 
-행복한 자바 공부 되세요! 🚀
+
 
 ---
 ---
 
-https://www.hanbit.co.kr/support/supplement_survey.html?pcode=B6700167549 예제코드 링크
 
-
-# 제작하며 쓰는것
+# 제작하며 참고
 **javac -encoding UTF-8 -d out code-examples\chap폴더명\자바파일명.java - class파일 생성**
 - 예시
 ```java
